@@ -1,1 +1,6 @@
+#cypress modullerini ignore etmek için
 node_modules
+# klasörü ignore etmek için
+screenshots/
+
+
